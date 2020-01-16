@@ -1,4 +1,4 @@
-🌎 Deluge PHP
+Deluge PHP
 =====================
 
 Php package from [deluge console](https://dev.deluge-torrent.org/wiki/UserGuide/ThinClient#Console)
