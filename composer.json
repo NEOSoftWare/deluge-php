@@ -1,0 +1,19 @@
+{
+    "name": "neosoftware/deluge-php",
+    "description": "Deluge php package from console",
+    "type": "lib",
+    "license": "gpl",
+    "authors": [
+        {
+            "name": "NEOSoftWare",
+            "email": "neosoftware@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NEOSoftWare\\": "Deluge/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
